@@ -4,7 +4,7 @@
 ----  |  ----
 [dirsearch](https://github.com/maurosoria/dirsearch) | веб-кроулер, поиск скрытых директорий и файлов
 [mitmproxy](https://github.com/mitmproxy/mitmproxy) | универсальный сниффер http/https трафика
-[adminer](https://github.com/vrana/adminer) | db менеджер
+[adminer](https://github.com/vrana/adminer) | аналог phpmyadmin из одного файла
 
 CMS  |  Admin URL | DB
 ----  |  ---- | ----
