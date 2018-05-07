@@ -25,7 +25,8 @@ Netcat | | /vars.inc.php
 [AVG](https://secure.avg.com/submit-sample)  
 [Dr.Web](https://support.drweb.ru/new/urlfilter/?lng=ru)  
 [Facebook](https://www.facebook.com/help/contact/571927962827151)  
-[VK](https://vk.com/support?act=new&from=hd)  
+[VK](https://vk.com/support?act=new&from=hd) 
+[Eset Nod32)(mailto:sdd@esetnod32.ru)  
 
 
 Запуск веб-сервера на Python:  
