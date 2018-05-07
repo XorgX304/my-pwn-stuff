@@ -6,6 +6,7 @@
 [mitmproxy](https://github.com/mitmproxy/mitmproxy) | универсальный сниффер http/https трафика
 [adminer](https://github.com/vrana/adminer) | аналог phpmyadmin из одного файла
 [Rogue MySQL Server](https://github.com/Gifts/Rogue-MySql-Server) | фейковый mysql сервер
+[nmap](https://github.com/nmap/nmap) | сканирование сетей
 
 CMS  |  Admin URL | DB
 ----  |  ---- | ----
