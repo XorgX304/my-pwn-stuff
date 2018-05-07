@@ -16,3 +16,6 @@ Drupal | /user/ | /sites/default/settings.php
 Opencart | | 
 Magento | |
 Netcat | | /vars.inc.php
+
+Запуск веб-сервера на Python:
+```python3 -m http.server```
