@@ -19,6 +19,15 @@ Opencart | |
 Magento | |
 Netcat | | /vars.inc.php
 
+[Yandex Safebrowsing](https://yandex.ru/support/webmaster-troubleshooting/threats/dangerous-sites.html)  
+[Avira](https://analysis.avira.com/ru/submit-urls)  
+[BitDefender](https://www.bitdefender.com/submit/)  
+[AVG](https://secure.avg.com/submit-sample)  
+[Dr.Web](https://support.drweb.ru/new/urlfilter/?lng=ru)  
+[Facebook](https://www.facebook.com/help/contact/571927962827151)  
+[VK](https://vk.com/support?act=new&from=hd)  
+
+
 Запуск веб-сервера на Python:  
 ```python3 -m http.server```
   
