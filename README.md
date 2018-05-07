@@ -15,7 +15,7 @@ Joomla | /administrator/ | /configuration.php
 Modx Evo | /manager/ | /manager/includes/config.inc.php
 Bitrix | /bitrix/admin/ | /bitrix/php_interface/dbconn.php
 Drupal | /user/ | /sites/default/settings.php
-Opencart | | 
+Opencart | /admin/ | /config.php 
 Magento | |
 Netcat | | /vars.inc.php
 
