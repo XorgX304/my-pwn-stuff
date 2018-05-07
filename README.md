@@ -19,3 +19,11 @@ Netcat | | /vars.inc.php
 
 Запуск веб-сервера на Python:  
 ```python3 -m http.server```
+  
+Проверка скорости записи на диск:  
+```dd if=/dev/zero of=tempfile count=512 bs=1024k conv=fdatasync```
+  
+Проверка скорости чтения:  
+```dd if=tempfile of=/dev/null count=512 bs=1024k```  
+Не забыть потом удалить файл:  
+```rm tempfile```
