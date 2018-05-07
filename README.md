@@ -5,7 +5,7 @@
 [dirsearch](https://github.com/maurosoria/dirsearch) | веб-кроулер, поиск скрытых директорий и файлов
 [mitmproxy](https://github.com/mitmproxy/mitmproxy) | универсальный сниффер http/https трафика
 [adminer](https://github.com/vrana/adminer) | аналог phpmyadmin из одного файла
-[Rogue MySQL Server](https://github.com/Gifts/Rogue-MySql-Server) | фейковый mysql сервер
+[rogue mysql server](https://github.com/Gifts/Rogue-MySql-Server) | фейковый mysql сервер
 [nmap](https://github.com/nmap/nmap) | сканирование сетей
 
 CMS  |  Admin URL | DB
