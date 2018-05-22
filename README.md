@@ -27,6 +27,7 @@ Netcat | | /vars.inc.php |
 [Facebook](https://www.facebook.com/help/contact/571927962827151)  
 [VK](https://vk.com/support?act=new&from=hd)  
 [Eset Nod32](mailto:sdd@esetnod32.ru)  
+[Trustwave](https://www3.trustwave.com/support/submit-url.asp)
 
 
 Запуск веб-сервера на Python:  
