@@ -10,7 +10,7 @@
 
 CMS  |  Admin URL | DB | Version
 ----  |  ---- | ---- | ----
-Wordpress | /wp-admin/ | /wp-config.php | 
+Wordpress | /wp-admin/ | /wp-config.php | /wp-includes/version.php
 Joomla | /administrator/ | /configuration.php | 
 Modx Evo | /manager/ | /manager/includes/config.inc.php | 
 Bitrix | /bitrix/admin/ | /bitrix/php_interface/dbconn.php | 
