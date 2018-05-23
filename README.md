@@ -27,7 +27,7 @@ Netcat | | /vars.inc.php |
 [Facebook](https://www.facebook.com/help/contact/571927962827151)  
 [VK](https://vk.com/support?act=new&from=hd)  
 [Eset Nod32](mailto:sdd@esetnod32.ru)  
-[Trustwave](https://www3.trustwave.com/support/submit-url.asp)
+[Trustwave](https://www3.trustwave.com/support/submit-url.asp)  
 [Sophos](https://secure2.sophos.com/en-us/support/submit-a-sample.aspx)
 
 
