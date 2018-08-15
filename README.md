@@ -29,7 +29,8 @@ Netcat | | /vars.inc.php |
 [Eset Nod32](mailto:sdd@esetnod32.ru)  
 [Trustwave](https://www3.trustwave.com/support/submit-url.asp)  
 [Sophos](https://secure2.sophos.com/en-us/support/submit-a-sample.aspx)  
-[Fortinet](https://fortiguard.com/faq/wfratingsubmit)
+[Fortinet](https://fortiguard.com/faq/wfratingsubmit)  
+[Quick Heal](http://support.quickheal.com/v4/index.php?/Tickets/Submit/RenderForm)
 
 
 Запуск веб-сервера на Python:  
