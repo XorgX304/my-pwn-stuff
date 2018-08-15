@@ -28,7 +28,8 @@ Netcat | | /vars.inc.php |
 [VK](https://vk.com/support?act=new&from=hd)  
 [Eset Nod32](mailto:sdd@esetnod32.ru)  
 [Trustwave](https://www3.trustwave.com/support/submit-url.asp)  
-[Sophos](https://secure2.sophos.com/en-us/support/submit-a-sample.aspx)
+[Sophos](https://secure2.sophos.com/en-us/support/submit-a-sample.aspx)  
+[Fortinet](https://fortiguard.com/faq/wfratingsubmit)
 
 
 Запуск веб-сервера на Python:  
