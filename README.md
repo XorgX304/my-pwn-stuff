@@ -30,7 +30,8 @@ Netcat | | /vars.inc.php |
 [Trustwave](https://www3.trustwave.com/support/submit-url.asp)  
 [Sophos](https://secure2.sophos.com/en-us/support/submit-a-sample.aspx)  
 [Fortinet](https://fortiguard.com/faq/wfratingsubmit)  
-[Quick Heal](http://support.quickheal.com/v4/index.php?/Tickets/Submit/RenderForm)
+[Quick Heal](http://support.quickheal.com/v4/index.php?/Tickets/Submit/RenderForm)  
+[McAfee](https://www.trustedsource.org/?p=mcafee)
 
 
 Запуск веб-сервера на Python:  
