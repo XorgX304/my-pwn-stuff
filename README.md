@@ -16,7 +16,7 @@ Modx Evo | /manager/ | /manager/includes/config.inc.php |
 Bitrix | /bitrix/admin/ | /bitrix/php_interface/dbconn.php | 
 Drupal | /user/ | /sites/default/settings.php | /modules/system/system.info
 Opencart | /admin/ | /config.php | 
-Magento | | | 
+Magento | | /app/etc/local.xml | 
 Netcat | | /vars.inc.php | 
 
 [Yandex Safebrowsing](https://yandex.ru/support/webmaster-troubleshooting/threats/dangerous-sites.html)  
